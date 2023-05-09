@@ -188,12 +188,3 @@ module.exports = {
     updateStudent,
     updateTeacher
 };
-/*
-module.exports = {
-    addTeacher,
-    readTeachers,
-    readTeacherInfo,
-    updateTeacher,
-    deleteTeacher
-}
-*/
